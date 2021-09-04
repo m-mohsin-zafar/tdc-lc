@@ -169,7 +169,8 @@ The output is saved in the [output](./output) folder. Inside the folder you will
 | test_1949.png  | 3     |
 | test_12565.png | 12    |
 
-Also, in the [output](./output) folder you'll find another folder named ["viz"](./output/viz) which shall contain the output visualizations. You may find some output visualizations to be plain black images, this would occur in case there are no predicted lymphocytes i.e. count=0. Some sample output visualizations are shown below.
+Also, in the [output](./output) folder you'll find another folder named ["viz"](./output/viz) which shall contain the output visualizations. You may find some output visualizations to be plain black images, this would occur in case there are no predicted lymphocytes i.e. count=0. Some sample output visualizations are shown below.  
+
 ![Sample Image 1](./output/viz/test_15907.png)    ![Sample Image 2](./output/viz/test_1949.png)   
 ![Sample Image 1](./output/viz/test_12565.png)    ![Sample Image 2](./output/viz/test_11283.png)
 
