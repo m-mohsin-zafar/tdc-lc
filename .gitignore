@@ -1,0 +1,17 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+
+# Checkpoints
+checkpoints/*.pth
+
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Cython debug symbols
+cython_debug/
+
