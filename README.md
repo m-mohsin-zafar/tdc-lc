@@ -1,6 +1,6 @@
 # **Official Repository**
-## _"Detection of Lymphocytes in Histopathological Images using a Two-Phase Deep CNN"_
-The research article is submitted for acceptance in [Photodiagnosis and Photodynamic Therapy](https://www.journals.elsevier.com/photodiagnosis-and-photodynamic-therapy) Journal  
+## _"Detection of tumour infiltrating lymphocytes in CD3 and CD8 stained histopathological images using a two-phase deep CNN"_
+The research article is available in [Photodiagnosis and Photodynamic Therapy](https://www.journals.elsevier.com/photodiagnosis-and-photodynamic-therapy) Journal, Volume 37, and can be accessed using this [Link](https://www.sciencedirect.com/science/article/abs/pii/S1572100021004932?via%3Dihub)  
 ### List of Authors
 - [**Muhammad Mohsin Zafar**](https://scholar.google.com/citations?user=ghHRTiMAAAAJ&hl=en)
 - Zunaira Rauf
@@ -177,3 +177,20 @@ Also, in the [output](./output) folder you'll find another folder named ["viz"](
 ### Acknowledgements
 We are thankful to [**Pakistan Institute of Engineering and Applied Sciences, Islamabad (PIEAS)**](http://www.pieas.edu.pk/) and **Pattern Recognition Lab** for their kind support and facilitation in computational resources. 
 
+### Citation
+
+If you use the code in your research or wish to refer to the baseline results published in the article, please use the following BibTeX entry.
+
+```BibTex
+@article{ZAFAR2022102676,
+    title = {Detection of tumour infiltrating lymphocytes in CD3 and CD8 stained histopathological images using a two-phase deep CNN},
+    journal = {Photodiagnosis and Photodynamic Therapy},
+    volume = {37},
+    pages = {102676},
+    year = {2022},
+    issn = {1572-1000},
+    doi = {https://doi.org/10.1016/j.pdpdt.2021.102676},
+    url = {https://www.sciencedirect.com/science/article/pii/S1572100021004932},
+    author = {Muhammad Mohsin Zafar and Zunaira Rauf and Anabia Sohail and Abdul Rehman Khan and Muhammad Obaidullah and Saddam Hussain Khan and Yeon Soo Lee and Asifullah Khan},
+    keywords = {tumor-infiltrating Lymphocytes (TILs), Mask R-CNN, Histopathological images, Lymphocyte detection, Deep Convolutional Neural Network (DCNN)}
+}```
